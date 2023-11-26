@@ -1,0 +1,9 @@
+Bounding box detected in frame: 200
+Bounding box detected in frame: 201
+Bounding box detected in frame: 202
+Bounding box detected in frame: 200
+Bounding box detected in frame: 201
+Bounding box detected in frame: 202
+Bounding box detected in frame: 200
+Bounding box detected in frame: 201
+Bounding box detected in frame: 202
