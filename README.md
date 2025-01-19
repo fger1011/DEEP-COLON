@@ -16,3 +16,16 @@ The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of 
 The YOLOv4-tiny model achieves 22.0% AP (42.0% AP50) at a speed of 443 FPS on RTX 2080Ti, while by using TensorRT, batch size = 4 and FP16-precision the YOLOv4-tiny achieves 1774 FPS.
 
 For real-time object detection, YOLOv4-tiny is the better option when compared with YOLOv4 as faster inference time is more important than precision or accuracy when working with a real-time object detection environment.
+
+## User Interface
+
+### Login Window
+![Image](https://github.com/user-attachments/assets/f5785a65-97ae-4cc6-9d2d-b89dc2f4a44d)
+
+### Home Window
+![Image](https://github.com/user-attachments/assets/f4dac78a-ca1d-4750-9f0c-eabfcf09c71d)
+
+## Sample
+![Image](https://github.com/user-attachments/assets/dfdd6bf8-d08e-4cb7-95ff-3991c06aa467)
+
+![Image](https://github.com/user-attachments/assets/cdd5d025-cfa1-4180-81a3-00879e4c0bef)
