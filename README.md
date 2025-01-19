@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Description
+DEEP-COLON is a standalone software program that detect colon polyps from a colonoscopy video that identifies and categorize the polyp either a polyp or a diverticula. This software project benefits a client from MD Sinai Laguna Hospital that contributed for the project. This program uses YOLOv4 tiny for detecting colorectal abnormalities which improves FPS for every uploaded video. This project still needs improvement and it far from being perfect. 
+
 ## YOLOv4 vs YOLOv4-tiny
 
 YOLOv4 is an object detection algorithm that is an evolution of the YOLOv3 model. The YOLOv4 method was created by Alexey Bochkovskiy, Chien-Yao Wang, and Hong-Yuan Mark Liao. It is twice as fast as EfficientDet with comparable performance. In addition, AP (Average Precision) and FPS (Frames Per Second) in YOLOv4 have increased by 10% and 12% respectively compared to YOLOv3.
