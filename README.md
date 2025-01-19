@@ -37,7 +37,7 @@ For real-time object detection, YOLOv4-tiny is the better option when compared w
 
 ## Sample Output
 
-![Image](https://github.com/user-attachments/assets/9eadcc02-811d-462e-a7b7-9d1af5239b7f)
+![Image](https://github.com/user-attachments/assets/93ae3118-4df3-43ec-97ab-aa904a8a3746)
 
 ## License
 
